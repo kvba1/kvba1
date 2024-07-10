@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kuba</h1>
-- 🔭 I’m currently looking for a job **in Machine Learning**
+
+- 🔭 I’m currently looking for a job in **Machine Learning**
 
 - 🌱 I’m currently learning **Machine and Deep Learning**
 
