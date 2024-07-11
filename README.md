@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Kuba</h1>
+<h1>Hi, I'm Kuba 👋</h1>
 
 - 🔭 I’m currently looking for a job in **Machine Learning**
 
