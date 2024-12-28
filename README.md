@@ -3,7 +3,6 @@
 
 <h3 align="left">My Recent Projects:</h3>
 <ul>
-  <li><strong>Text-Toxicity-Analysis-BERT-Streamlit:</strong> A project that uses BERT and Streamlit to analyze text toxicity.</li>
   <li><strong>AI-Talent-Match:</strong> An AI-driven platform for matching talent with job opportunities.</li>
   <li><strong>Local-File-Chatbot-Ollama-Streamlit:</strong> A chatbot built with Streamlit that interacts with local files.</li>
   <li><strong>FaceDetector-Neural-Network-for-Face-Detection-using-CNN:</strong> A neural network-based face detection system using CNN.</li>
