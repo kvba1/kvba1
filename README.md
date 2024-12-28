@@ -1,5 +1,5 @@
 <h1>Hi, I'm Kuba 👋</h1>
-- 📫 How to reach me kba1337@wp.pl
+- 📫 How to reach me: kba1337@wp.pl
 
 <h3 align="left">My Recent Projects:</h3>
 <ul>
