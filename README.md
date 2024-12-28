@@ -1,9 +1,4 @@
 <h1>Hi, I'm Kuba 👋</h1>
-
-- 🌱 I’m currently learning **Machine and Deep Learning**
-
-- 💬 Ask me about **my projects!**
-
 - 📫 How to reach me **jakprzybyl7@gmail.com**
 
 <h3 align="left">My Recent Projects:</h3>
